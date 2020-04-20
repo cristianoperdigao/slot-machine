@@ -11,6 +11,7 @@ Just press <***space***> and try to win 🤘
 
     - python3 
     - tkinter
+    - PIL
     
 ## Install
 
