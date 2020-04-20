@@ -1,4 +1,4 @@
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/cristianoperdigao/slot-machine/blob/master/LICENSE)
 
 # 🎰 slot-machine 🎰
 This is a minimum slot machine simulator that you can play without the limits and invest money.
