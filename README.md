@@ -19,7 +19,7 @@ Just press <***space***> and try to win 🤘
     $ pip3 install tkinter
     
 ## Identified improvements to do
-    - Block spin when is spinning;
+    - Block spin button when is spinning;
     - Exclude previous symbol when is spining (otherwise sometimes we see the same symbol);
-    - Win jackpot;
+    - Jackpot Win;
     - Virtual wallet to charge money;
